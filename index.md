@@ -23,3 +23,6 @@ Charaktereigenschaft 1, Charaktereigenschaft 2, Charaktereigenschaft 3, Charakte
 * Punkt 8
 * Punkt 9
 * Punkt 10
+
+> Dies ist ein Zitat gesprochen von einer wichtigen Person
+> Und hier endet das Zitat auch schon wieder
